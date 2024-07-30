@@ -1,5 +1,5 @@
 
-# Assignment2
+# Cartoonopia Web Application
 
 Assignment2 is a full-stack web application development project based on Node.js, aimed at providing a secure and efficient user data processing platform. This project uses the Express framework to build the server side, EJS as the templating engine for front-end rendering, and MongoDB for data management. Additionally, the project integrates the Multer and Bcrypt libraries to support file uploads and password encryption, ensuring functionality and security. 
 ## Getting Started
